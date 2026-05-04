@@ -18,7 +18,7 @@
 ## 📦 Installation
 
 ```bash
-go get github.com/yourname/mango
+go get github.com/AlexanderXinarxZenDev/mango
 ```
 
 Or manually add to your project.
@@ -43,7 +43,7 @@ package main
 import (
     "fmt"
     "log"
-    "github.com/yourname/mango"
+    "github.com/AlexanderXinarxZenDev/mango"
 )
 
 func main() {
@@ -87,7 +87,7 @@ Reads an HTML file, replaces all `{{ key }}` placeholders, and returns the rende
 
 ## 🔗 Integration with Flusk
 
-MangoTemplate is designed to work seamlessly with the [Flusk](https://github.com/yourname/flusk) web framework:
+MangoTemplate is designed to work seamlessly with the [Flusk](https://github.com/AlexanderXinarxZenDev/flusk) web framework:
 
 ```go
 // Flusk context extension
