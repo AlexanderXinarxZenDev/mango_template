@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/yourname/mango"
+	"github.com/AlexanderXinarxZenDev/mango_template"
 )
 
 func main() {
