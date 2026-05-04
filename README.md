@@ -43,7 +43,7 @@ package main
 import (
     "fmt"
     "log"
-    "github.com/AlexanderXinarxZenDev/mango"
+    "github.com/AlexanderXinarxZenDev/mango_template"
 )
 
 func main() {
